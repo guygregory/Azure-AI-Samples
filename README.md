@@ -1,6 +1,6 @@
 # GPT-4o Car Vision Sample
 
-This Jupyter notebook demonstrates the use of AzureOpenAI's GPT-4o model to generate a comprehensive natural language description of a car.
+Inspired by [this example](https://github.com/denisa-ms/azure-openai-code-samples/blob/main/GPT4o/Use%20GPT4o%20with%20images.ipynb) from [Denise Schlesinger](https://github.com/denisa-ms), This Jupyter notebook demonstrates the use of AzureOpenAI's GPT-4o model to generate a comprehensive natural language description of a car.
 
 The demo covers the following:
 
