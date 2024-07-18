@@ -1,4 +1,3 @@
-
 import os
 from openai import AzureOpenAI
 import base64
