@@ -3,7 +3,7 @@
 
 import os
 import asyncio
-from openai import AzureOpenAI, AsyncAzureOpenAI
+from openai import AsyncAzureOpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
