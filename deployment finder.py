@@ -1,3 +1,7 @@
+# Deployment finder
+# A script to list all the Azure OpenAI model deployments in an Azure subscription
+
+# Import libraries, and load the Azure Subscription ID
 import os
 from azure.identity import DefaultAzureCredential
 from azure.mgmt.cognitiveservices import CognitiveServicesManagementClient
